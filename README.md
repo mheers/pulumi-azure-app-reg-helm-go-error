@@ -1,6 +1,6 @@
 # pulumi-azure-app-reg-helm-go-error
 
-Demonstrates a bug in pulumi.
+Demonstrates a bug in pulumi. See https://github.com/pulumi/pulumi/pull/14949
 
 When running the test in this repo, pulumi crashes with the following error:
 
